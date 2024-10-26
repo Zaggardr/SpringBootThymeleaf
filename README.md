@@ -3,7 +3,7 @@ Ce projet consiste à développer une application CRUD en Java avec Spring Boot 
 
 ## Prérequis
 Java Development Kit (JDK) 17 ou plus récent
-Eclipse IDE ou tout autre IDE compatible avec Maven
+Intillij IDE ou tout autre IDE compatible avec Maven
 MySQL Server
 Maven pour la gestion des dépendances
 Pilote JDBC MySQL (mysql-connector-java)
@@ -33,7 +33,9 @@ Afficher la liste des utilisateurs avec une interface web dynamique.
 3. Structure des Vues (Templates Thymeleaf)
 -add-user.html : Formulaire pour ajouter un nouvel utilisateur.
 -index.html : Liste des utilisateurs avec options pour les modifier ou les supprimer.
+
 ## Vidéo:
+https://github.com/user-attachments/assets/8fe2e267-cc57-47da-9180-6bc225340a4f
 
 ## Auteur
 Ce projet a été développé par Zaggar Driss.
